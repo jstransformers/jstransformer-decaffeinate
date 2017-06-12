@@ -1,6 +1,6 @@
 'use strict'
 
-var decaf = require('decaffeinate')
+const decaf = require('decaffeinate')
 
 exports.name = 'decaffeinate'
 exports.inputFormats = ['decaffeinate', 'coffee', 'decaf']
