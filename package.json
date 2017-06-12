@@ -1,6 +1,9 @@
 {
+  "dependencies": {
+    "decaffeinate": "^2.41.2"
+  },
   "name": "jstransformer-decaffeinate",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "decaffeinate support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -28,8 +31,5 @@
     "name": "JSTransformers Team",
     "url": "http://github.com/orgs/jstransformers/people"
   },
-  "license": "MIT",
-  "dependencies": {
-    "decaffeinate": "^2.41.2"
-  }
+  "license": "MIT"
 }
