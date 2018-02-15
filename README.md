@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var decaf = require('jstransformer')(require('jstransformer-decaffeinate'));
+var decaf = require('jstransformer')(require('jstransformer-decaffeinate'))
 
 decaf.render('square = (x) -> x * x').body
 //=> 'let square = x => x * x;'
