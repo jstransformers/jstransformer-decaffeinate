@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "decaffeinate": "^4.8.8"
+    "decaffeinate": "^5.0.0"
   },
   "name": "jstransformer-decaffeinate",
   "version": "0.1.0",
