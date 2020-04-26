@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-decaffeinate/master.svg)](https://travis-ci.org/jstransformers/jstransformer-decaffeinate)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-decaffeinate/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-decaffeinate)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-decaffeinate/master.svg)](http://david-dm.org/jstransformers/jstransformer-decaffeinate)
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-decaffeinate.svg)](https://greenkeeper.io/)
+
 [![NPM version](https://img.shields.io/npm/v/jstransformer-decaffeinate.svg)](https://www.npmjs.org/package/jstransformer-decaffeinate)
 
 ## Installation
